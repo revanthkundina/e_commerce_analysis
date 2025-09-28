@@ -1,0 +1,24 @@
+# Virtual Environment
+e_commerce/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+
+# Logs and temp
+*.log
+*.tmp
+
+# VS Code settings
+.vscode/
+
