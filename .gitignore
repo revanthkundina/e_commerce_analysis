@@ -18,6 +18,7 @@ __pycache__/
 # Logs and temp
 *.log
 *.tmp
+*.idea
 
 # VS Code settings
 .vscode/
